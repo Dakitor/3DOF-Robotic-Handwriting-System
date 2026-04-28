@@ -11,7 +11,7 @@ Design and Implementation of a 3-DOF Robotic System for Human-like Handwriting.
 - combined_gcode/: exported combined G-code files for demonstration
 
 ## Workflow
-1. Generate personalised Chinese character PNG images using SDT.(https://github.com/dailenson/SDT)
+1. Generate personalised Chinese character PNG images using SDT.
 2. Convert PNG images into single-character G-code files.
 3. Load the G-code library in the PyQt UI.
 4. Input text and export combined G-code.
